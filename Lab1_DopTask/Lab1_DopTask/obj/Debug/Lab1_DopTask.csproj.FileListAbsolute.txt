@@ -1,0 +1,17 @@
+\\Mac\Home\Desktop\3 курс\Лабораторные работы\С#\Lab1_DopTask\Lab1_DopTask\bin\Debug\Lab1_DopTask.exe.config
+\\Mac\Home\Desktop\3 курс\Лабораторные работы\С#\Lab1_DopTask\Lab1_DopTask\bin\Debug\Lab1_DopTask.exe
+\\Mac\Home\Desktop\3 курс\Лабораторные работы\С#\Lab1_DopTask\Lab1_DopTask\bin\Debug\Lab1_DopTask.pdb
+\\Mac\Home\Desktop\3 курс\Лабораторные работы\С#\Lab1_DopTask\Lab1_DopTask\obj\Debug\Lab1_DopTask.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\3 курс\Лабораторные работы\С#\Lab1_DopTask\Lab1_DopTask\obj\Debug\Lab1_DopTask.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\3 курс\Лабораторные работы\С#\Lab1_DopTask\Lab1_DopTask\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\3 курс\Лабораторные работы\С#\Lab1_DopTask\Lab1_DopTask\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\3 курс\Лабораторные работы\С#\Lab1_DopTask\Lab1_DopTask\obj\Debug\Lab1_DopTask_MarkupCompile.cache
+\\Mac\Home\Desktop\3 курс\Лабораторные работы\С#\Lab1_DopTask\Lab1_DopTask\obj\Debug\Lab1_DopTask_MarkupCompile.lref
+\\Mac\Home\Desktop\3 курс\Лабораторные работы\С#\Lab1_DopTask\Lab1_DopTask\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\3 курс\Лабораторные работы\С#\Lab1_DopTask\Lab1_DopTask\obj\Debug\Lab1_DopTask.g.resources
+\\Mac\Home\Desktop\3 курс\Лабораторные работы\С#\Lab1_DopTask\Lab1_DopTask\obj\Debug\Lab1_DopTask.Properties.Resources.resources
+\\Mac\Home\Desktop\3 курс\Лабораторные работы\С#\Lab1_DopTask\Lab1_DopTask\obj\Debug\Lab1_DopTask.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\3 курс\Лабораторные работы\С#\Lab1_DopTask\Lab1_DopTask\obj\Debug\Lab1_DopTask.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\3 курс\Лабораторные работы\С#\Lab1_DopTask\Lab1_DopTask\obj\Debug\Lab1_DopTask.exe
+\\Mac\Home\Desktop\3 курс\Лабораторные работы\С#\Lab1_DopTask\Lab1_DopTask\obj\Debug\Lab1_DopTask.pdb
+\\Mac\Home\Desktop\3 курс\Лабораторные работы\С#\Lab1_DopTask\Lab1_DopTask\obj\Debug\App.baml
